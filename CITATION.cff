@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "AI Model Lab"
+message: "If you use this software in your research, please cite this repository."
+type: software
+
+authors:
+  - family-names: "Agasar"
+    given-names: "Bhagya"
+
+repository-code: "https://github.com/bhagyaagasar/ai-model-lab"
+
+abstract: >
+  AI Model Lab is an interactive machine-learning web application
+  for dataset exploration, model training, evaluation, visualization,
+  and prediction using Python, Scikit-learn, and Streamlit.
+
+keywords:
+  - artificial intelligence
+  - machine learning
+  - data science
+  - scikit-learn
+  - Streamlit
+  - classification
+  - computer vision
+
+license: MIT
